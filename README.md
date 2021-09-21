@@ -1,2 +1,4 @@
-# school-data-2.0
-  Using JOptionPane and receiving data from students and teachers of a school, being able to change the data in case of error.
+# School data 2.0 (upgrade)
+Using the javax.swing.JOptionPane package, at the beginning of the program inform the data of how many students it will inform, the program receives this data, treats them with the constructors and stores them, then inform the number of teachers and insert the data. At the end of the execution of the entire program, all the data entered will be printed to be checked by the user, in case of an error, just click on "Alterar Dados" and you will be able to modify the data of that student or that teacher, if there is no error , or everything is in order, just finish the program.
+
+To view the code, open the folder "pacPrincipal" and the file "Principal.java" contains the program. For the visualization of classes and constructors, open the folder "pacOutros" and you will be able to visualize three files containing constructors for the students, professors and address data.
